@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /*!
-* Start Bootstrap - Coming Soon v6.0.7 (https://startbootstrap.com/theme/coming-soon)
-* Copyright 2013-2023 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-coming-soon/blob/master/LICENSE)
+* Start Bootstrap - Quarks Industrials Coming Soon v0.1 (https://quarksindustrials.com)
+* Copyright 2013-2023 Priyam Jain
+* Licensed under MIT (https://github.com/StartBootstrap/quarksindustrials/blob/master/LICENSE)
 */
 /*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
@@ -10840,7 +10840,6 @@ body:before {
   left: 0;
   height: 100%;
   width: 100%;
-  
   opacity: 0.7;
   z-index: 1;
 }
@@ -10883,7 +10882,7 @@ video.bg-video {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: rgb(160, 191, 224);
+  background-color: #A0BFE0;
 }
 .masthead .masthead-content {
   position: relative;
